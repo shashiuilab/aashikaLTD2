@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aashikaLTD2/static/css/main.073c9b0a.css",
+    "main.js": "/aashikaLTD2/static/js/main.a8594061.js",
+    "static/js/787.f1d9cfb7.chunk.js": "/aashikaLTD2/static/js/787.f1d9cfb7.chunk.js",
+    "index.html": "/aashikaLTD2/index.html",
+    "main.073c9b0a.css.map": "/aashikaLTD2/static/css/main.073c9b0a.css.map",
+    "main.a8594061.js.map": "/aashikaLTD2/static/js/main.a8594061.js.map",
+    "787.f1d9cfb7.chunk.js.map": "/aashikaLTD2/static/js/787.f1d9cfb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a8594061.js"
+  ]
+}
